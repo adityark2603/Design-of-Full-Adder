@@ -1,1 +1,1 @@
-# Design of Full Adder
+# Digital Design of Full Adder
